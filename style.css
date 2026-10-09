@@ -2,11 +2,9 @@
 background-color: lightblue;
 }
 
-
 h1 {
         text-align: center;
 }
-
 
 #css-button {
         background-color: green;
@@ -21,18 +19,23 @@ border-radius: 20px;
         
 }
 
-
 button:active {
         transform: scale(0.8);
 }
-
 
 #image1 {
         width: 300px;
         height: 300px;
 }
 
-
 ul {
         font-family: "Comic Sans MS";
+}
+
+#image2 {
+        width: 300px;
+        height: 500px;
+        display:block;
+        margin-right: auto;
+        margin-left: auto;
 }
