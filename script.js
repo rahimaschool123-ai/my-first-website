@@ -15,5 +15,5 @@ buttonid.addEventListener("click", function() {
 if (month === 10 && day === 26) {
     console.log("mi birthday hahahaah    ------------------------------------------abdur")
     hapybirfdaytxt.textContent = "HAPY BIRFDAY IT OCTOBER 26 HAHAHA IT ABDURZ BIRTHDAY ok fine ima stfu but now 12"
-    hapybirfdayimg.src = "image/birfday.jpg"
+    hapybirfdayimg.src = "images/birfday.jpg"
 }
