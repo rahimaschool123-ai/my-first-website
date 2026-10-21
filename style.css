@@ -46,6 +46,7 @@ ul {
         display:block;
         margin-right: auto;
         margin-left: auto;
+        display: none;
 }
 
 #hapy-birfday-txtid {
